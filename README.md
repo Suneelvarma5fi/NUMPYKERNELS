@@ -1,2 +1,2 @@
-# NUMPYKERNELS
+# NUMPY
 Started learning this numpy library
