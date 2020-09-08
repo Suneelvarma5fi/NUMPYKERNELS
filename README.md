@@ -1,2 +1,2 @@
 # NUMPY
-Started learning this numpy library
+Exploring numpy library
